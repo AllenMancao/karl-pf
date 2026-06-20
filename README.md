@@ -8,4 +8,4 @@ Currently on OJT — this repo will be updated with projects as I complete them.
 ## Contact
 - GitHub: [@AllenMancao](https://github.com/AllenMancao)
 - Email: carlallenmancao@gmail.com
--        cagmancao00779@usep.edu.ph
+- Email: cagmancao00779@usep.edu.ph
